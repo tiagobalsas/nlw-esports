@@ -14,6 +14,27 @@ function App() {
         </span>{' '}
         está aqui.
       </h1>
+
+      <div className='grid grid-cols-6 gap-6 mt-16'>
+        <a href=''>
+          <img src='/image1.png' />
+        </a>
+        <a href=''>
+          <img src='/image2.png' />
+        </a>
+        <a href=''>
+          <img src='/image3.png' />
+        </a>
+        <a href=''>
+          <img src='/image4.png' />
+        </a>
+        <a href=''>
+          <img src='/image5.png' />
+        </a>
+        <a href=''>
+          <img src='/image6.png' />
+        </a>
+      </div>
     </div>
   );
 }
