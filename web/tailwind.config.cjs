@@ -4,6 +4,9 @@ module.exports = {
   theme: {
     extend: {
       colors: {},
+      fontFamily: {
+        sans: ['inter', 'sans-serif'],
+      },
       backgroundImage: {
         galaxy: "url('/background-galaxy.png')",
         'nlw-gradient':
